@@ -1,5 +1,3 @@
-// src/app/components/Header.tsx
-
 "use client";
 
 import React, { FC, useContext } from "react";
