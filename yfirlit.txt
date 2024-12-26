@@ -1,15 +1,6 @@
 tree -I "node_modules|.git" > structure.txt
 
-Lokaverkefni/
-├── bakendi/               # Back-End
-│   ├── api/               # API routes for serverless functions
-│   ├── controllers/       # Business logic for handling requests
-│   ├── middleware/        # Middleware functions (e.g., CORS, auth)
-│   ├── models/            # Database models (e.g., Mongoose)
-│   ├── utils/             # Utility functions
-│   ├── package.json       # Back-end dependencies and scripts
-│   ├── vercel.json        # Vercel configuration for back-end
-│   └── .env               # Environment variables for the back-end
+LV FR/
 ├── framendi/              # Front-End
 │   ├── src/               # Source code for the front-end
 │   │   ├── app/           # App directory (Next.js 13+)
