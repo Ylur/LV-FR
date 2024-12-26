@@ -1,5 +1,6 @@
 // src/app/utils/api.ts
 
+
 import {
   SelectedDish,
   SelectedDrink,
@@ -15,7 +16,7 @@ import {
  */
 const API_BASE_URL =
   process.env.NEXT_PUBLIC_API_BASE_URL ||
-  "https://lokaverkefni-bakendi.vercel.app/api";
+  "https://bakendi.vercel.app/api";
 
 /* ===================================
    AUTHENTICATION
